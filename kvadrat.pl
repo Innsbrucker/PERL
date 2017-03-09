@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 use strict;
+use bignum;
 
 print "How many numbers in series?:\n";
 my $input = <STDIN>;
